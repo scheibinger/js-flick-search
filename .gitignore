@@ -1,0 +1,7 @@
+node_modules
+dist
+**/.tmp
+**/.css
+.sass-cache
+app/components
+.DS_Store
