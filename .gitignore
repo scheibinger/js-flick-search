@@ -1,7 +1,7 @@
 node_modules
 dist
 **/.tmp
-**/.css
+**/*.css
 .sass-cache
 app/components
 .DS_Store
